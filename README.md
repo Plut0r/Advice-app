@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git repo url](https://github.com/Plut0r/Advice-app)
-- Live Site URL: [Git live url](https://your-live-site-url.com)
+- Live Site URL: [Git live url](https://advice-generator-wa1fafala5.netlify.app/)
 
 
 ### Built with
